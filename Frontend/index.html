@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Smart Pothole Detection System</title>
+
+  <link rel="stylesheet" href="style.css">
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  />
+</head>
+
+<body>
+
+<header>
+  <h1>🚧 Smart Pothole Detection System</h1>
+</header>
+
+<section class="container">
+
+  <div class="card">
+    <h2>📸 Report Pothole</h2>
+
+    <input type="file" id="image" />
+    <select id="severity">
+      <option>Low</option>
+      <option>Medium</option>
+      <option>High</option>
+    </select>
+
+    <button onclick="reportPothole()">Submit</button>
+  </div>
+
+  <div class="card map-card">
+    <h2>🗺️ Live Map</h2>
+    <div id="map"></div>
+  </div>
+
+</section>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="script.js"></script>
+</body>
+</html>

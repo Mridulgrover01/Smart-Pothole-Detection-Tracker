@@ -1,0 +1,34 @@
+[
+    {
+        "id": "daf19b4e-0193-47b3-af3b-77cd76c8d631",
+        "latitude": "29.5097441",
+        "longitude": "75.4610498",
+        "severity": "Low",
+        "image": "d7e2dcb1-34a5-46cf-afc2-00eb492227d9_pothole.jpeg",
+        "status": "Reported"
+    },
+    {
+        "id": "af2b2bb3-f9e7-4a88-9aa9-a333b4255269",
+        "latitude": "29.5097453",
+        "longitude": "75.4610531",
+        "severity": "Medium",
+        "image": "54766362-05a9-4925-bfba-fef951ed2185_pothole.jpeg",
+        "status": "Reported"
+    },
+    {
+        "id": "d7ae90ea-afb9-4d12-9041-a1c53a700427",
+        "latitude": "29.5097453",
+        "longitude": "75.4610531",
+        "severity": "Medium",
+        "image": "768c65d7-c1d2-44f2-ae2c-f13121758e88_pothole.jpeg",
+        "status": "Reported"
+    },
+    {
+        "id": "08ff05e2-fb5d-49d3-9628-198b8decfa51",
+        "latitude": "29.5097459",
+        "longitude": "75.4610529",
+        "severity": "High",
+        "image": "326b6aac-e2b4-44b1-be5d-8e5733b2e0ab_pothole.jpeg",
+        "status": "Reported"
+    }
+]
