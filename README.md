@@ -52,6 +52,10 @@ Authorities can track reports and take necessary action efficiently.
 * Encourages citizen participation
 * Brings transparency in repair process
 * Enables data-driven road maintenance
+  
+## Demo Video
+🎥 Localhost Working Demo:
+https://drive.google.com/file/d/1SZd92uNGDG9_UxTlQwVS0m4zKZON4Q7H/view?usp=sharing
 
 ## Conclusion
 This project demonstrates a practical and scalable solution for smart road
