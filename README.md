@@ -57,6 +57,19 @@ Authorities can track reports and take necessary action efficiently.
 🎥 Localhost Working Demo:
 https://drive.google.com/file/d/1SZd92uNGDG9_UxTlQwVS0m4zKZON4Q7H/view?usp=sharing
 
+## 🖼️ Demo Images
+
+Below are real-life pothole images uploaded and tested in the system.  
+These images are displayed on the live map after reporting.
+
+![Pothole 1](demo-images/pothole.jpeg)
+![Pothole 2](demo-images/pothole(1).jpeg)
+![Pothole 3](demo-images/pothole(2).jpeg)
+![Pothole 4](demo-images/pothole(3).jpg)
+![Pothole 5](demo-images/pothole(4).jpg)
+![Pothole 6](demo-images/pothole(5).jpg)
+
+
 ## Conclusion
 This project demonstrates a practical and scalable solution for smart road
 infrastructure management using technology and automation.
